@@ -8,7 +8,7 @@ Un blog para el curso de Git y Github de PLatzi
 * El verdsadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Alejandro
-* Estudiantre de Front-end Development 
+* Estudiante de Front-end Development
 * Incluye ejemplo en Windows, Linux y Mac
 * Disponible para todas las edades
 
