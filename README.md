@@ -9,5 +9,6 @@ Un blog para el curso de Git y Github de PLatzi
 * Trucos muy locos del profesor
 * Las personalidades multiples de Alejandro
 * Estudiantre de Front-end Development
+* Incluye ejemplo en Windows, Linux y Mac
 
 Este readme.md fue diseñado por **Alejandro Mantilla**
