@@ -13,8 +13,8 @@ Se utiliza principalmente para la creación de código fuente de programas de or
 
 # Sobre Alejandro:
 > * Nació el 11/05/2000
-* Reside en Guayaquil, Ecuador
-* Estudiante de Platzi en Front-end y Back-end Development
-* Futuro SEO de **Mancar Software Dev**
+> * Reside en Guayaquil, Ecuador
+> * Estudiante de Platzi en Front-end y Back-end Development
+> * Futuro SEO de **Mancar Software Dev**
 
 Este readme.md fue diseñado por **Alejandro Mantilla**
